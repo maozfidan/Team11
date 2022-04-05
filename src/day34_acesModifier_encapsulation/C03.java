@@ -4,7 +4,7 @@ public class C03 {
 
     // encapsule edecegimiz 2 variable olusturalim
     private int sayi;
-    private String str;
+     String str;
     public int getSayi() {
         return sayi;
     }
