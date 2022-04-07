@@ -10,4 +10,6 @@ public class Deneme {
             // baska package'dan kullanilamaz
             C01.halkaAcikSayi=13;
         }
+
+
     }
