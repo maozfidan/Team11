@@ -23,6 +23,7 @@ public class C02_FileInputStream {
             FileInputStream fis =new FileInputStream(dosyaYolu);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
+
         }
     }
 }

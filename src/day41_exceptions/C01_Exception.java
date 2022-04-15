@@ -8,12 +8,12 @@ public class C01_Exception {
         int c= 0;
         try {
             c=a/b;
-        } catch (Exception e) {
-            // Burada yazdigimiz e : javanin exception'i atayacagi obje
-            // Exception ise olusan exception'nin turu
-            //e.printStackTrace();
-            System.out.println(e.getMessage());
-        }
+      } catch (Exception e) {
+          // Burada yazdigimiz e : javanin exception'i atayacagi obje
+          // Exception ise olusan exception'nin turu
+          //e.printStackTrace();
+          System.out.println(e.getMessage());
+      }
         System.out.println(c);
     }
 }
